@@ -58,7 +58,7 @@ This page provides a high-level view of customer retention and customer value.
 - Revenue Contribution by RFM Segment
 - Cohort Retention Analysis
 
-![Customer Retention Overview](Screenshots/customer-retention-overview.png)
+![Customer Retention Overview](Screenshots/customer-retention-overview.png.png)
 
 ---
 
@@ -88,7 +88,7 @@ This page focuses on customers who are at risk and the revenue associated with t
 - Revenue by Customer Segment
 - Regional Risk Analysis
 
-![Churn & Revenue Risk](Screenshots/churn-revenue-risk.png)
+![Churn & Revenue Risk](Screenshots/churn-revenue-risk.png.png)
 
 ---
 
